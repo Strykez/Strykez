@@ -5,7 +5,7 @@
 
 <h3>Hi! I'm Strykez, a 20 y.o. developer that has an interest in python scripting, game programming and information security.</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" height="400"/>
+<img align="right" src="https://github.com/Strykez/Strykez/blob/ec2b3a3e97430ef2019712797877fffc8506208e/assets/programmer_gif.gif" height="400"/>
 
 
 <h1>About me 🤵</h1>
