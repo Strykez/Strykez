@@ -1,3 +1,5 @@
+<img src="https://github.com/Strykez/Strykez/blob/d777305a4aef51c2a3dedb2c88486bf7b0abe63c/assets/header_gif_cropped_comp.gif"/>
+
 <h1 align="left">Introduction 👋 <img src="https://komarev.com/ghpvc/?username=strykez&label=Profile%20views&color=0e75b6&style=flat" alt="strykez" /></h1>
 
 
