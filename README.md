@@ -25,16 +25,13 @@
 
 <h1 align="left">Familiarity with languages and tools 🔧</h1>
 
-| **Medium** | **Basic** |
-| ------ | ----- |
-| Python | C/C++ |
-| Java | React |
-| C# | Angular |
-| Unity | MongoDB |
-|  | MySQL |
-|  | Javascript |
-|  | Typescript |
-|  | Rust |  
+| **Medium** | **Basic** | **Worked with them a few times** |
+| ------ | ----- | ----- |
+| Python | C/C++ | React |
+| C# | Java | Angular |
+| Unity | Javascript | MongoDB |
+|  | MySQL | Typescript |
+|  |  | Rust |
 
 <br>
 
