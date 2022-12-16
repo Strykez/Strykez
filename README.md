@@ -31,7 +31,8 @@
 | Java | React |
 | C# | Angular |
 | Unity | MongoDB |
-| MySQL | Javascript |
+|  | MySQL |
+|  | Javascript |
 |  | Typescript |
 |  | Rust |  
 
